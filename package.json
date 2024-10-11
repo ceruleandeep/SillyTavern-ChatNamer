@@ -1,0 +1,10 @@
+{
+  "name": "SillyTavern-ChatNamer",
+  "version": "1.0.0",
+  "description": "Adds a tool for your bot/agent/character to use, that sets the name of the current chat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
